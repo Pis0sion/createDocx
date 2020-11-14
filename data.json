@@ -1,0 +1,57 @@
+{
+  "Title": "测试文档",
+  "UpdateTime": "2020-11-13 !2:00:00",
+  "Description": "测试描述",
+  "ApiBaseInfo": {
+    "ApiState": "开发中",
+    "ApiAddress": "http://www.gaoqiaoxue.com",
+    "ApiMethod": "GET",
+    "ApiContentType": "Content-type:application"
+  },
+  "ReqParameters": {
+    "HeaderVars": [
+      {
+        "HParams": "Accept",
+        "HExample": "Application/json",
+        "HBool": "必填",
+        "HDesc": "描述"
+      }
+    ],
+    "AuthorizationVars": [
+      {
+        "AuthParams": "Accept",
+        "AuthExample": "Application/json",
+        "AuthBool": "必填",
+        "AuthDesc": "描述"
+      }
+    ],
+    "QueryVars": [
+      {
+        "QParams": "Accept",
+        "QExample": "Application/json",
+        "QBool": "必填",
+        "QDesc": "描述"
+      }
+    ],
+    "BodyVars": [
+      {
+        "BParams": "Accept",
+        "BExample": "Application/json",
+        "BBool": "必填",
+        "BDesc": "描述"
+      }
+    ],
+    "RawVars": "zhang"
+  },
+  "RespParameters": {
+    "RespBody": [
+      {
+        "RespParams": "Accept",
+        "RespExample": "Application/json",
+        "RespBool": "必填",
+        "RespDesc": "描述"
+      }
+    ],
+    "RespRaw": "{'name':'pis0sion'}"
+  }
+}

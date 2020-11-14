@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ec98fff-5edd-45e0-b549-ab407450174d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/service/MergeDocxService.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-escaper" />
+      <path value="$PROJECT_DIR$/vendor/pclzip/pclzip" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpword" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/common" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kDOfmuIVXViOMKIbgfkBz8kaY1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tmpl" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.PHP" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zihua\Desktop\createDocx\tmpl" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ec98fff-5edd-45e0-b549-ab407450174d" name="Default Changelist" comment="" />
+      <created>1605231800535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605231800535</updated>
+      <workItem from="1605231801757" duration="570000" />
+      <workItem from="1605232387659" duration="27396000" />
+      <workItem from="1605319075812" duration="22643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="75" key="#Inspections" timestamp="1605243850640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="391" y="75" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1605243850640" />
+    <state x="527" y="22" key="#com.intellij.ide.util.MemberChooser" timestamp="1605259409548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="22" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1605259409548" />
+    <state x="545" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605236424796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="545" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1605236424796" />
+    <state x="433" y="108" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1605236920321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="433" y="108" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605236920321" />
+    <state x="496" y="108" key="FileChooserDialogImpl" timestamp="1605263018735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="108" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605263018735" />
+    <state x="504" y="83" key="NewPhpClassDialog" timestamp="1605338426905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="504" y="83" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1605338426905" />
+    <state x="574" y="319" key="NewPhpFileDialog" timestamp="1605232114680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="319" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1605232114680" />
+    <state x="153" y="0" width="1366" height="824" key="SettingsEditor" timestamp="1605244037796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="153" y="0" width="1366" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605244037796" />
+    <state x="347" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1605239026524">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605239026524" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+{
+    "name": "pis0sion/generate-docx",
+    "description": "generate docx by input self parameters",
+    "type": "library",
+    "require": {
+        "php": ">=7.1",
+        "phpoffice/phpword": "^0.17.0",
+        "ext-zlib": "*",
+        "ext-json": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pis0sion",
+            "email": "zihuang2010@126.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Pis0sion\\Docx\\": "src"
+        }
+    }
+}
